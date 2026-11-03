@@ -23,7 +23,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "render.com",
+            "address": "auto-worker.autumn-fernleaf.workers.dev",
             "port": 443,
             "users": [
               {
@@ -39,7 +39,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "orkepg.pages.dev",
+          "serverName": "auto-worker.autumn-fernleaf.workers.dev",
           "alpn": ["http/1.1"],
           "fingerprint": "chrome"
         },
@@ -47,7 +47,7 @@
           "path": "/",
           "headers": {
             "remarks": "x",
-            "Host": "orkepg.pages.dev"
+            "Host": "auto-worker.autumn-fernleaf.workers.dev"
           }
         }
       }

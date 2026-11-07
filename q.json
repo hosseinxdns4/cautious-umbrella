@@ -23,7 +23,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "auto-worker.autumn-fernleaf.workers.dev",
+            "address": "188.114.96.3",
             "port": 443,
             "users": [
               {
@@ -39,7 +39,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "auto-worker.autumn-fernleaf.workers.dev",
+          "serverName": "auto-worker.mixed-anemone.workers.dev",
           "alpn": ["http/1.1"],
           "fingerprint": "chrome"
         },
@@ -47,7 +47,7 @@
           "path": "/",
           "headers": {
             "remarks": "x",
-            "Host": "auto-worker.autumn-fernleaf.workers.dev"
+            "Host": "auto-worker.mixed-anemone.workers.dev"
           }
         }
       }
